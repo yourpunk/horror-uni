@@ -73,6 +73,9 @@ freshmans_fear/
 
 > Coming soon: cursed hallways, haunted keypads, and aesthetic dread.
 
+🖥️ [Download and Play Locally](#download-and-play)
+🌐 [Play in Browser (WebGL)](https://yourusername.github.io/project-folder)
+
 ## 🧪 How To Play It (if you dare)
 
 1. Clone the repository:
