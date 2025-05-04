@@ -74,7 +74,8 @@ freshmans_fear/
 > Coming soon: cursed hallways, haunted keypads, and aesthetic dread.
 
 🖥️ [Download and Play Locally](#download-and-play)
-🌐 [Play in Browser (WebGL)](https://yourpunk.github.io/horror-uni)
+
+🌐 [Play in Browser (WebGL)](https://cent.felk.cvut.cz/courses/39HRY/archives/2024-2025/team07/web-bin/index.html)
 
 ## 🧪 How To Play It (if you dare)
 
