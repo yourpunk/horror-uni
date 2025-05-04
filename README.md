@@ -1,6 +1,13 @@
 # 🎓🩸 Freshman's Fear
 
+<img src="https://github.com/user-attachments/assets/b190d1c1-885f-41ae-bb82-67d459d15ab0" align="left" width="128">
+<br>
+<br>
+
 _A horror escape game born from group projects, bad lighting, and worse decisions._
+<br>
+<br>
+<br>
 
 ## 🖤 What’s this?
 
