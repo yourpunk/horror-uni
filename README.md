@@ -19,16 +19,15 @@ You either escape before sunrise or become part of the academic decor. Your sani
 
 ## 👥 Team Credits (They did WHAT??)
 
-| Role              | Member              | Contributions                                                                 |
+| Role              | [Member](#-authors)              | Contributions                                                                 |
 |-------------------|---------------------|--------------------------------------------------------------------------------|
 | 🧠 **Team Leader** | Quido Kapica        | Programming, debugging, UI art assets                                          
 | 🧊 **3D Designer** | David Lukášek       | Level design, animations, character rigs                                      |
-| 🔥 **Game Writer** | me - Aleksandra Kenig (Soboleva) | Story, coding, character logic, cutsceness                       |
+| 🔥 **Game Writer** | **me** - Aleksandra Kenig (*Soboleva*) | Story, coding, character logic, cutsceness                       |
 
 > **Disclaimer:** Some assets (models, music, textures) are licensed and credited in the [LICENSE](./LICENSE) file.
 
 ## 🛠️ Tech Stack
-
 
 - 🧱 **Unity 2022** – with just the right amount of instability
 - 💀 **C#** – because love is dead, but object-oriented programming lives on
@@ -48,54 +47,39 @@ You either escape before sunrise or become part of the academic decor. Your sani
 | Show Map       | `M`       |
 | Pause Game     | `Esc`     |
 
-
-## 📂 Project Structure
-
-```
-freshmans_fear/
-│
-├── Assets/
-│   ├── Animations/
-│   ├── Materials/
-│   ├── Prefabs/
-│   ├── Scenes/
-│   ├── Scripts/
-│   ├── UI/
-│   └── Sounds/
-│
-├── ProjectSettings/
-└── README.md
-```
-
----
-
 ## 📸 Screenshots
 
-> Coming soon: cursed hallways, haunted keypads, and aesthetic dread.
-
-🖥️ [Download and Play Locally](#download-and-play)
-
-🌐 [Play in Browser (WebGL)](https://cent.felk.cvut.cz/courses/39HRY/archives/2024-2025/team07/web-bin/index.html)
+![A](https://github.com/user-attachments/assets/aead46fa-e4b6-49de-9c12-7d1dbdc2ce07)
+![B](https://github.com/user-attachments/assets/15deccbc-79ef-4311-8f19-aadb047618be)
+![C](https://github.com/user-attachments/assets/a6048c84-68fa-4f5c-ba7e-59df2b6044ac)
+![D](https://github.com/user-attachments/assets/aa2c964f-1b61-414b-8d49-6f6e9d2d7101)
+[![Watch the trailer](https://img.youtube.com/vi/sOHIUYtDyKM/maxresdefault.jpg)](https://youtu.be/sOHIUYtDyKM)
+### →🍿🎥 Watch the trailer on *YouTube* ⤴︎
 
 ## 🧪 How To Play It (if you dare)
 
-1. Clone the repository:
-   ```bash
-  
-   ```
+🐾 **Option 1: Play Instantly**
+1. Play in Browser (WebGL) - [here](https://cent.felk.cvut.cz/courses/39HRY/archives/2024-2025/team07/web-bin/index.html)
+2. Double-click. That’s it. No setup, no sorcery.
 
-2. Open the project in **Unity Hub** (Unity 2022 recommended).
-
-3. Open the `MainScene` or `StartMenu` and hit Play!
-
----
+📦 **Option 2: Run Locally**
+1. Download the latest `.zip` from [Releases](https://github.com/yourpunk/horror-uni/releases)
+2. Unzip it anywhere on your PC
+3. Double-click `Freshman's Fear.exe`
 
 ## 🧛 A Bloodcurdling Thank You
 
 To insomnia, midterms, and bugs that defied logic — you made this nightmare possible 🩸
 
-
 ## 📃  License? Of course.
 
 Check [LICENSE](./LICENSE) for asset credits.
-> We steal hearts, not textures.
+> We steal hearts, not models.
+
+## 👤 Authors
+
+Created by **Aleksandra Kenig** (aka [yourpunk](https://github.com/yourpunk)), **Quido Kapica** and and **[David Lukášek](https://www.linkedin.com/in/david-ddi-luk%C3%A1%C5%A1ek-10ab30343/)**.
+
+> 💀 Team project? More like *scream* project.<br>
+
+💌 Wanna collab or throw some feedback? You know where to find me.
