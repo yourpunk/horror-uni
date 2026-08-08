@@ -32,7 +32,7 @@ You either escape before sunrise or become part of the academic decor. Your sani
 | 🧊 **3D Designer** | David Lukášek       | Level design, animations, character rigs                                      |
 | 🔥 **Game Writer** | **me** - Aleksandra Kenig (*Soboleva*) | Story, coding, character logic, cutsceness                       |
 
-> **Disclaimer:** Some assets (models, music, textures) are licensed and credited in the [LICENSE](./LICENSE) file.
+> **Disclaimer:** Some assets (models, music, textures) are licensed and credited in the [LICENSE](./LICENSE.txt) file.
 
 ## 🛠️ Tech Stack
 
@@ -80,7 +80,7 @@ To insomnia, midterms, and bugs that defied logic — you made this nightmare po
 
 ## 📃  License? Of course.
 
-Check [LICENSE](./LICENSE) for asset credits.
+Check [LICENSE](./LICENSE.txt) for asset credits.
 > We steal hearts, not models.
 
 ## 👤 Authors
