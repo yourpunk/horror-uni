@@ -1,0 +1,104 @@
+LICENSE
+
+GENERAL LICENSE FOR THE GAME
+Copyright © 2024 TEAM07. All rights reserved.
+
+This game is provided for personal and non-commercial use only. 
+Any unauthorized copying, modification, distribution, or commercial use without prior written permission from TEAM07 is strictly prohibited.
+
+The game is provided "as is," without warranty of any kind, express or implied, 
+including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. 
+TEAM07 and its members shall not be held liable for any damages or losses arising from the use or inability to use this game.
+
+---
+
+THIRD-PARTY LICENSES
+This game includes assets (audio, textures, models, etc.) licensed from third-party sources. Their respective licenses and attributions are listed below:
+
+Audio:
+- "whispers" by thanvannispen - Licensed under CC-BY 4.0
+  Source: https://freesound.org/people/thanvannispen/sounds/9665/
+
+- "thump" by FreqMan - Licensed under CC-BY 4.0
+  Source: https://freesound.org/people/FreqMan/sounds/20793/
+
+- "empty can drop" by FreqMan - Licensed under CC-BY 4.0
+  Source: https://freesound.org/people/FreqMan/sounds/25723/
+
+- "door unlock" by digifishmusic - Licensed under CC-BY 4.0
+  Source: https://freesound.org/people/digifishmusic/sounds/43707/
+
+- "grrr" by Sea Fury - Licensed under CC-BY 4.0
+  Source: https://freesound.org/people/Sea%20Fury/sounds/48688/
+
+- "can open" by morgantj - Licensed under CC-BY 4.0
+  Source: https://freesound.org/people/morgantj/sounds/58846/
+
+- "creepy laugh" by Dpoggioli - Licensed under CC-BY 4.0
+  Source: https://freesound.org/people/Dpoggioli/sounds/213608/
+
+- "insert coin" by amorralteixe - Licensed under CC-BY 3.0
+  Source: https://freesound.org/people/amorralteixe/sounds/233013/
+
+- "growl" by cylon8472 - Licensed under CC-BY 4.0
+  Source: https://freesound.org/people/cylon8472/sounds/249686/
+
+- "distant footsteps" by sjnewton - Licensed under CC-BY 4.0
+  Source: https://freesound.org/people/sjnewton/sounds/256578/
+
+- "big boss stomping" by Hoshenko - Licensed under CC-BY 4.0
+  Source: https://freesound.org/people/Hoshenko/sounds/697646/
+
+- "switch on" by InspectorJ - Licensed under CC-BY 4.0
+  Source: https://freesound.org/people/InspectorJ/sounds/414438/
+
+- "heartbeat" by InspectorJ - Licensed under CC-BY 4.0
+  Source: https://freesound.org/people/InspectorJ/sounds/485076/
+
+- "door opening" by InspectorJ - Licensed under CC-BY 4.0
+  Source: https://freesound.org/people/InspectorJ/sounds/431117/
+
+- "throw paper ball" by MattRuthSound - Licensed under CC-BY 4.0
+  Source: https://freesound.org/people/MattRuthSound/sounds/562022/
+
+- "low hum growing" by Nosebleed Cinema - Licensed under CC-BY 4.0
+  Source: https://freesound.org/people/Nosebleed%20Cinema/sounds/94142/
+
+- "Small Glass Break" by Natty23 - Licensed under CC-BY 4.0
+  Source: https://freesound.org/s/322602/
+
+- "elevator-music-bossa-nova-background-music-version-60s-10900" by music_for_video - Licensed under CC-BY 4.0
+  Source: https://pixabay.com/music/elevator-music-elevator-music-bossa-nova-background-music-version-60s-10900/
+
+- "angry mhm" - Licensed under CC-BY 4.0
+  Source: https://freesound.org/people/qubodup/sounds/169742/
+
+- "Chair moving" by freesound_community - Licensed under CC-BY 4.0
+  Source: https://pixabay.com/sound-effects/chair-moving-38333/
+
+- "main menu music" and "backgroud music" by URHEIM - Licensed under CC-BY 4.0
+
+Model Contribution by Egor Kenig
+
+The model "lampMan" is licensed to TEAM07 under the following conditions:
+The model is provided for exclusive use in this game project.
+Egor Kenig retains the right to showcase the model in their personal portfolio with credit to this game.
+Redistribution, modification, or use of this model outside this game project is prohibited without explicit permission from Egor Kenig.
+
+Some resources used in this game are licensed under CC0 (Public Domain) 
+and were sourced from platforms such as Freesound, Sketchfab, and others. 
+Specific attributions are provided where required.
+
+---
+
+USAGE OF THIS LICENSE
+This license applies exclusively to the content and code of the game created by TEAM07. 
+Assets created by third parties are governed by their respective licenses as outlined in the THIRD-PARTY LICENSES section above.
+
+---
+
+CONTACT
+For any questions regarding this license or for permissions related to the game, please contact:
+kapicqui@fel.cvut.cz
+lukasda7@fel.cvut.cz
+sobolale@fel.cvut.cz
